@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "GoogleCastSDK",
+    name: "GoogleCast",
     platforms: [
         .iOS(.v12),
     ],
@@ -14,10 +14,9 @@ let package = Package(
             targets: ["GoogleCast"]
         ),
     ],
-    dependencies: [],
     targets: [
         .binaryTarget(
             name: "GoogleCast",
-            path: "./Sources/GoogleCast.xcframework")
+            path: "Sources/GoogleCast.xcframework")
     ]
 )

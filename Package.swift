@@ -18,6 +18,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleCast",
-            path: "./Sources/GoogleCast.xcframework")
+            path: "./Sources/GoogleCast.xcframework"
+        )
     ]
 )

@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>078D680A-E4A4-4351-BFC9-549CEDA7AC6F</key>
+		<key>02CF4797-91E8-42CC-8E03-44E887129076</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,17 +15,17 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>078D680A-E4A4-4351-BFC9-549CEDA7AC6F.xcactivitylog</string>
+			<string>02CF4797-91E8-42CC-8E03-44E887129076.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -34,15 +34,15 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>752105119.14435005</real>
+			<real>752624897.76527905</real>
 			<key>timeStoppedRecording</key>
-			<real>752105119.44332898</real>
+			<real>752624897.91269898</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>078D680A-E4A4-4351-BFC9-549CEDA7AC6F</string>
+			<string>02CF4797-91E8-42CC-8E03-44E887129076</string>
 		</dict>
-		<key>0A460C63-7946-40CF-9F5D-DE170714773C</key>
+		<key>03901656-6F81-4055-B2F3-4905E55EBC96</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -51,43 +51,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>0A460C63-7946-40CF-9F5D-DE170714773C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>signature</key>
-			<string>Reload Package ‘google-cast-sdk-ios’</string>
-			<key>timeStartedRecording</key>
-			<real>752104892.38210297</real>
-			<key>timeStoppedRecording</key>
-			<real>752104892.94783294</real>
-			<key>title</key>
-			<string>Reload Package ‘google-cast-sdk-ios’</string>
-			<key>uniqueIdentifier</key>
-			<string>0A460C63-7946-40CF-9F5D-DE170714773C</string>
-		</dict>
-		<key>0A7191EC-7246-450B-A223-CE80C840212D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
-			<key>fileName</key>
-			<string>0A7191EC-7246-450B-A223-CE80C840212D.xcactivitylog</string>
+			<string>03901656-6F81-4055-B2F3-4905E55EBC96.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -106,15 +70,15 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>752104745.36995196</real>
+			<real>752625696.02890694</real>
 			<key>timeStoppedRecording</key>
-			<real>752104745.96457505</real>
+			<real>752625696.16512799</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>0A7191EC-7246-450B-A223-CE80C840212D</string>
+			<string>03901656-6F81-4055-B2F3-4905E55EBC96</string>
 		</dict>
-		<key>0BF57FE9-20F1-4DF4-9982-F28DB234EA3A</key>
+		<key>0BECFEB3-BB03-4822-8117-5BCF27759E9D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -123,7 +87,187 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>0BF57FE9-20F1-4DF4-9982-F28DB234EA3A.xcactivitylog</string>
+			<string>0BECFEB3-BB03-4822-8117-5BCF27759E9D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>2</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752626369.59287</real>
+			<key>timeStoppedRecording</key>
+			<real>752626369.97311294</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>0BECFEB3-BB03-4822-8117-5BCF27759E9D</string>
+		</dict>
+		<key>0F9831A8-B874-429F-9F4B-46665D4D8F58</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>0F9831A8-B874-429F-9F4B-46665D4D8F58.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624977.88937795</real>
+			<key>timeStoppedRecording</key>
+			<real>752624978.15890706</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>0F9831A8-B874-429F-9F4B-46665D4D8F58</string>
+		</dict>
+		<key>140CC12C-87C4-4176-8ED0-06AA747C5867</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>140CC12C-87C4-4176-8ED0-06AA747C5867.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>5</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752626396.683936</real>
+			<key>timeStoppedRecording</key>
+			<real>752626397.12667298</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>140CC12C-87C4-4176-8ED0-06AA747C5867</string>
+		</dict>
+		<key>145E6762-E5CE-4388-A074-E51542C9056C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>145E6762-E5CE-4388-A074-E51542C9056C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>2</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626369.97374797</real>
+			<key>timeStoppedRecording</key>
+			<real>752626370.16463995</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>145E6762-E5CE-4388-A074-E51542C9056C</string>
+		</dict>
+		<key>1541CE9A-7949-4675-B021-9799763F7003</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>1541CE9A-7949-4675-B021-9799763F7003.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625103.72185898</real>
+			<key>timeStoppedRecording</key>
+			<real>752625104.17677498</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>1541CE9A-7949-4675-B021-9799763F7003</string>
+		</dict>
+		<key>1C32CEDE-F801-480E-97B6-40D6C2FE4497</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>1C32CEDE-F801-480E-97B6-40D6C2FE4497.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -140,17 +284,17 @@
 				<integer>0</integer>
 			</dict>
 			<key>signature</key>
-			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>752104937.59879196</real>
+			<real>752663133.41123295</real>
 			<key>timeStoppedRecording</key>
-			<real>752104937.62279201</real>
+			<real>752663133.43071306</real>
 			<key>title</key>
-			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>0BF57FE9-20F1-4DF4-9982-F28DB234EA3A</string>
+			<string>1C32CEDE-F801-480E-97B6-40D6C2FE4497</string>
 		</dict>
-		<key>21108987-22BA-44ED-8770-97EBFD9D907C</key>
+		<key>1D7F3EB4-5EBE-475B-BE28-09D11B91A4E9</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -159,7 +303,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>21108987-22BA-44ED-8770-97EBFD9D907C.xcactivitylog</string>
+			<string>1D7F3EB4-5EBE-475B-BE28-09D11B91A4E9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -178,15 +322,15 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>752104833.22930002</real>
+			<real>752626195.502195</real>
 			<key>timeStoppedRecording</key>
-			<real>752104833.53536105</real>
+			<real>752626195.66603506</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>21108987-22BA-44ED-8770-97EBFD9D907C</string>
+			<string>1D7F3EB4-5EBE-475B-BE28-09D11B91A4E9</string>
 		</dict>
-		<key>3D0C77B6-6C13-4FC8-95AC-6CA89769A714</key>
+		<key>1E9D784E-AE9A-4668-82C8-9CEDAC0C3E90</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -195,7 +339,43 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>3D0C77B6-6C13-4FC8-95AC-6CA89769A714.xcactivitylog</string>
+			<string>1E9D784E-AE9A-4668-82C8-9CEDAC0C3E90.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625745.32532096</real>
+			<key>timeStoppedRecording</key>
+			<real>752625745.47437203</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>1E9D784E-AE9A-4668-82C8-9CEDAC0C3E90</string>
+		</dict>
+		<key>20280F20-1E5A-4917-9DC9-C0B5257E3DA6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>20280F20-1E5A-4917-9DC9-C0B5257E3DA6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -214,15 +394,15 @@
 			<key>signature</key>
 			<string>Reload Package ‘google-cast-sdk-ios’</string>
 			<key>timeStartedRecording</key>
-			<real>752104900.38605404</real>
+			<real>752625803.38268399</real>
 			<key>timeStoppedRecording</key>
-			<real>752104900.67037702</real>
+			<real>752625804.20619094</real>
 			<key>title</key>
 			<string>Reload Package ‘google-cast-sdk-ios’</string>
 			<key>uniqueIdentifier</key>
-			<string>3D0C77B6-6C13-4FC8-95AC-6CA89769A714</string>
+			<string>20280F20-1E5A-4917-9DC9-C0B5257E3DA6</string>
 		</dict>
-		<key>57D31E4D-D6BB-41C3-921C-3C92624953D4</key>
+		<key>24130704-1372-43CC-9F12-527AE1B2C973</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -231,7 +411,187 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>57D31E4D-D6BB-41C3-921C-3C92624953D4.xcactivitylog</string>
+			<string>24130704-1372-43CC-9F12-527AE1B2C973.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625706.60867298</real>
+			<key>timeStoppedRecording</key>
+			<real>752625706.61831903</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>24130704-1372-43CC-9F12-527AE1B2C973</string>
+		</dict>
+		<key>29C260F4-CFA5-40FF-ABEC-39B15361FA75</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>29C260F4-CFA5-40FF-ABEC-39B15361FA75.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624892.22645795</real>
+			<key>timeStoppedRecording</key>
+			<real>752624893.36598694</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>29C260F4-CFA5-40FF-ABEC-39B15361FA75</string>
+		</dict>
+		<key>2AFC1CDF-E1F2-4BE1-A442-B5E99219629F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>2AFC1CDF-E1F2-4BE1-A442-B5E99219629F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625702.60643196</real>
+			<key>timeStoppedRecording</key>
+			<real>752625703.19909298</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>2AFC1CDF-E1F2-4BE1-A442-B5E99219629F</string>
+		</dict>
+		<key>2BF19985-C759-40ED-AB64-94AC44F763BA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>2BF19985-C759-40ED-AB64-94AC44F763BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752624977.03062999</real>
+			<key>timeStoppedRecording</key>
+			<real>752624977.88873303</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>2BF19985-C759-40ED-AB64-94AC44F763BA</string>
+		</dict>
+		<key>2EA8D804-FA5E-47B3-8F29-CB45FB5A35AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>2EA8D804-FA5E-47B3-8F29-CB45FB5A35AE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625695.26713598</real>
+			<key>timeStoppedRecording</key>
+			<real>752625696.02825606</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>2EA8D804-FA5E-47B3-8F29-CB45FB5A35AE</string>
+		</dict>
+		<key>30A09380-087A-4C1B-B035-E2A00BFE3D3B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>30A09380-087A-4C1B-B035-E2A00BFE3D3B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -250,15 +610,15 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>752104742.74616694</real>
+			<real>752626469.52803898</real>
 			<key>timeStoppedRecording</key>
-			<real>752104745.36869597</real>
+			<real>752626469.70537996</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>57D31E4D-D6BB-41C3-921C-3C92624953D4</string>
+			<string>30A09380-087A-4C1B-B035-E2A00BFE3D3B</string>
 		</dict>
-		<key>58908931-B514-4312-8675-5F6DBD82183C</key>
+		<key>32DE581B-0513-4D44-863B-A737D1AA6D0E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -267,7 +627,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>58908931-B514-4312-8675-5F6DBD82183C.xcactivitylog</string>
+			<string>32DE581B-0513-4D44-863B-A737D1AA6D0E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -277,24 +637,24 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
+				<integer>5</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
 				<integer>0</integer>
 			</dict>
 			<key>signature</key>
-			<string>Resolve Packages</string>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
 			<key>timeStartedRecording</key>
-			<real>752104806.72492397</real>
+			<real>752626444.70110297</real>
 			<key>timeStoppedRecording</key>
-			<real>752104807.06609201</real>
+			<real>752626445.13588595</real>
 			<key>title</key>
-			<string>Resolve Packages</string>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
 			<key>uniqueIdentifier</key>
-			<string>58908931-B514-4312-8675-5F6DBD82183C</string>
+			<string>32DE581B-0513-4D44-863B-A737D1AA6D0E</string>
 		</dict>
-		<key>9246CFF7-7E0F-417E-80CB-5632E6970A96</key>
+		<key>3405545B-BF0B-4191-A5C2-35A52360CCD7</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -303,7 +663,43 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>9246CFF7-7E0F-417E-80CB-5632E6970A96.xcactivitylog</string>
+			<string>3405545B-BF0B-4191-A5C2-35A52360CCD7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626216.37806296</real>
+			<key>timeStoppedRecording</key>
+			<real>752626216.56908</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>3405545B-BF0B-4191-A5C2-35A52360CCD7</string>
+		</dict>
+		<key>348C1673-C8ED-4AD2-8E95-09A8E68997BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>348C1673-C8ED-4AD2-8E95-09A8E68997BF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -322,15 +718,15 @@
 			<key>signature</key>
 			<string>Reload Package ‘google-cast-sdk-ios’</string>
 			<key>timeStartedRecording</key>
-			<real>752104893.38057399</real>
+			<real>752625503.051705</real>
 			<key>timeStoppedRecording</key>
-			<real>752104893.67008698</real>
+			<real>752625503.05852795</real>
 			<key>title</key>
 			<string>Reload Package ‘google-cast-sdk-ios’</string>
 			<key>uniqueIdentifier</key>
-			<string>9246CFF7-7E0F-417E-80CB-5632E6970A96</string>
+			<string>348C1673-C8ED-4AD2-8E95-09A8E68997BF</string>
 		</dict>
-		<key>AB2FD0CF-CB86-4E9F-B7E1-C28A2B38D60F</key>
+		<key>35752BFD-3BF6-4EA4-B7F8-F808644C6B99</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -339,7 +735,1123 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>AB2FD0CF-CB86-4E9F-B7E1-C28A2B38D60F.xcactivitylog</string>
+			<string>35752BFD-3BF6-4EA4-B7F8-F808644C6B99.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625703.19972205</real>
+			<key>timeStoppedRecording</key>
+			<real>752625703.20565701</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>35752BFD-3BF6-4EA4-B7F8-F808644C6B99</string>
+		</dict>
+		<key>376067D7-7B91-4C10-A16A-C50593CA91D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>376067D7-7B91-4C10-A16A-C50593CA91D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625471.43765199</real>
+			<key>timeStoppedRecording</key>
+			<real>752625471.476174</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>376067D7-7B91-4C10-A16A-C50593CA91D4</string>
+		</dict>
+		<key>3AC0EBCF-0289-4879-8B65-340A621D312B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>3AC0EBCF-0289-4879-8B65-340A621D312B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>5</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752626466.11385298</real>
+			<key>timeStoppedRecording</key>
+			<real>752626466.55545902</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>3AC0EBCF-0289-4879-8B65-340A621D312B</string>
+		</dict>
+		<key>3AE0E6E4-D8FD-46F8-89F1-E28F16A746BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>3AE0E6E4-D8FD-46F8-89F1-E28F16A746BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625009.65366602</real>
+			<key>timeStoppedRecording</key>
+			<real>752625010.15173197</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>3AE0E6E4-D8FD-46F8-89F1-E28F16A746BF</string>
+		</dict>
+		<key>3C60F984-195F-4B45-BB92-1AF543D54C59</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>3C60F984-195F-4B45-BB92-1AF543D54C59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752622811.66475999</real>
+			<key>timeStoppedRecording</key>
+			<real>752622814.25015104</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>3C60F984-195F-4B45-BB92-1AF543D54C59</string>
+		</dict>
+		<key>40B38A81-9696-4BAB-8215-3F3DDA66CD19</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>40B38A81-9696-4BAB-8215-3F3DDA66CD19.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624898.64917099</real>
+			<key>timeStoppedRecording</key>
+			<real>752624898.82941902</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>40B38A81-9696-4BAB-8215-3F3DDA66CD19</string>
+		</dict>
+		<key>4C3FC055-515C-4A09-BA85-795B32B94743</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>4C3FC055-515C-4A09-BA85-795B32B94743.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626381.94915295</real>
+			<key>timeStoppedRecording</key>
+			<real>752626382.09257305</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>4C3FC055-515C-4A09-BA85-795B32B94743</string>
+		</dict>
+		<key>4D445070-D037-4026-A49B-C35F911EAD7A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>4D445070-D037-4026-A49B-C35F911EAD7A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625917.594046</real>
+			<key>timeStoppedRecording</key>
+			<real>752625917.60651505</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>4D445070-D037-4026-A49B-C35F911EAD7A</string>
+		</dict>
+		<key>4F4653C7-A89E-4A86-9114-15E72A382970</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>4F4653C7-A89E-4A86-9114-15E72A382970.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625411.45659602</real>
+			<key>timeStoppedRecording</key>
+			<real>752625411.46352696</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>4F4653C7-A89E-4A86-9114-15E72A382970</string>
+		</dict>
+		<key>54D11C83-CB9A-44CB-9EBC-7CB8701FF6ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>54D11C83-CB9A-44CB-9EBC-7CB8701FF6ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625910.32802606</real>
+			<key>timeStoppedRecording</key>
+			<real>752625910.34123898</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>54D11C83-CB9A-44CB-9EBC-7CB8701FF6ED</string>
+		</dict>
+		<key>5B279AFD-9331-46D8-AD69-E758003EF4E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>5B279AFD-9331-46D8-AD69-E758003EF4E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>5</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626466.55606103</real>
+			<key>timeStoppedRecording</key>
+			<real>752626466.694098</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>5B279AFD-9331-46D8-AD69-E758003EF4E0</string>
+		</dict>
+		<key>5B8F91E6-E561-48D6-9AC3-D5CEADFF0A4D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>5B8F91E6-E561-48D6-9AC3-D5CEADFF0A4D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752624957.019629</real>
+			<key>timeStoppedRecording</key>
+			<real>752624957.08874595</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>5B8F91E6-E561-48D6-9AC3-D5CEADFF0A4D</string>
+		</dict>
+		<key>5DCEC0EA-E561-4EF1-8938-6539F1288157</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>5DCEC0EA-E561-4EF1-8938-6539F1288157.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625751.31698596</real>
+			<key>timeStoppedRecording</key>
+			<real>752625751.47170401</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>5DCEC0EA-E561-4EF1-8938-6539F1288157</string>
+		</dict>
+		<key>5FC9058A-D9AF-4F58-8294-94FD948B9EA7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>5FC9058A-D9AF-4F58-8294-94FD948B9EA7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>5</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626397.12727106</real>
+			<key>timeStoppedRecording</key>
+			<real>752626397.26985896</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>5FC9058A-D9AF-4F58-8294-94FD948B9EA7</string>
+		</dict>
+		<key>6014EAD2-A98E-43AC-A8AC-2DA3C4EF7127</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>6014EAD2-A98E-43AC-A8AC-2DA3C4EF7127.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752626468.95929694</real>
+			<key>timeStoppedRecording</key>
+			<real>752626469.52748799</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>6014EAD2-A98E-43AC-A8AC-2DA3C4EF7127</string>
+		</dict>
+		<key>668B4A63-ADD1-4AD2-B9C2-E01808CD4D4C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>668B4A63-ADD1-4AD2-B9C2-E01808CD4D4C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625659.57823598</real>
+			<key>timeStoppedRecording</key>
+			<real>752625659.59785104</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>668B4A63-ADD1-4AD2-B9C2-E01808CD4D4C</string>
+		</dict>
+		<key>688AC11C-8B2B-4CD2-B3D8-EEB033684EAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>688AC11C-8B2B-4CD2-B3D8-EEB033684EAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625436.69313598</real>
+			<key>timeStoppedRecording</key>
+			<real>752625436.86342204</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>688AC11C-8B2B-4CD2-B3D8-EEB033684EAC</string>
+		</dict>
+		<key>6B884D35-086E-40ED-B386-4C84734A45B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>6B884D35-086E-40ED-B386-4C84734A45B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625990.56005704</real>
+			<key>timeStoppedRecording</key>
+			<real>752625991.349334</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>6B884D35-086E-40ED-B386-4C84734A45B7</string>
+		</dict>
+		<key>6CEC7A7C-84BF-4687-A3E2-18D94B2C11AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>6CEC7A7C-84BF-4687-A3E2-18D94B2C11AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625704.91245604</real>
+			<key>timeStoppedRecording</key>
+			<real>752625705.07220197</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>6CEC7A7C-84BF-4687-A3E2-18D94B2C11AF</string>
+		</dict>
+		<key>6D96A8AE-3A03-4024-B8BC-C166262CF180</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>6D96A8AE-3A03-4024-B8BC-C166262CF180.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624897.40337396</real>
+			<key>timeStoppedRecording</key>
+			<real>752624897.58613396</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>6D96A8AE-3A03-4024-B8BC-C166262CF180</string>
+		</dict>
+		<key>6EFE06F3-972D-4A5E-90C2-AE7EFAA69510</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>6EFE06F3-972D-4A5E-90C2-AE7EFAA69510.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624929.06594706</real>
+			<key>timeStoppedRecording</key>
+			<real>752624929.26415896</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>6EFE06F3-972D-4A5E-90C2-AE7EFAA69510</string>
+		</dict>
+		<key>6F8AAD21-06EA-467B-81FE-3ED4C20CEF1F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>6F8AAD21-06EA-467B-81FE-3ED4C20CEF1F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>5</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626445.13653195</real>
+			<key>timeStoppedRecording</key>
+			<real>752626445.27649701</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>6F8AAD21-06EA-467B-81FE-3ED4C20CEF1F</string>
+		</dict>
+		<key>72F87D58-3959-4B4D-B3E3-4C2E9EB6E787</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>72F87D58-3959-4B4D-B3E3-4C2E9EB6E787.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624804.01263201</real>
+			<key>timeStoppedRecording</key>
+			<real>752624806.49795794</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>72F87D58-3959-4B4D-B3E3-4C2E9EB6E787</string>
+		</dict>
+		<key>754168D3-86A1-4DC2-AB90-4C90F32C9DDC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>754168D3-86A1-4DC2-AB90-4C90F32C9DDC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752622271.45564497</real>
+			<key>timeStoppedRecording</key>
+			<real>752622274.35426295</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>754168D3-86A1-4DC2-AB90-4C90F32C9DDC</string>
+		</dict>
+		<key>79FF632A-27D6-413D-BA32-AAA72E50020D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>79FF632A-27D6-413D-BA32-AAA72E50020D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624915.92567801</real>
+			<key>timeStoppedRecording</key>
+			<real>752624916.35187399</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>79FF632A-27D6-413D-BA32-AAA72E50020D</string>
+		</dict>
+		<key>82EAF5A1-57B0-4313-89E7-6C54EAAF922B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>82EAF5A1-57B0-4313-89E7-6C54EAAF922B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752626215.45880997</real>
+			<key>timeStoppedRecording</key>
+			<real>752626216.37739301</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>82EAF5A1-57B0-4313-89E7-6C54EAAF922B</string>
+		</dict>
+		<key>836D1C5B-3840-4B73-AE9B-1B1ED771E7F3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>836D1C5B-3840-4B73-AE9B-1B1ED771E7F3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625009.57367206</real>
+			<key>timeStoppedRecording</key>
+			<real>752625009.65296495</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>836D1C5B-3840-4B73-AE9B-1B1ED771E7F3</string>
+		</dict>
+		<key>9395B721-6EB2-47C4-A61F-C517D5D6F019</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>9395B721-6EB2-47C4-A61F-C517D5D6F019.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624965.57663405</real>
+			<key>timeStoppedRecording</key>
+			<real>752624965.82258999</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>9395B721-6EB2-47C4-A61F-C517D5D6F019</string>
+		</dict>
+		<key>94436B21-B1C6-4652-A02F-D672C493610E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>94436B21-B1C6-4652-A02F-D672C493610E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626194.28092003</real>
+			<key>timeStoppedRecording</key>
+			<real>752626194.44249403</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>94436B21-B1C6-4652-A02F-D672C493610E</string>
+		</dict>
+		<key>944B791F-020A-4A90-83A1-C14DA00D8586</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>944B791F-020A-4A90-83A1-C14DA00D8586.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626194.44310403</real>
+			<key>timeStoppedRecording</key>
+			<real>752626194.60737002</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>944B791F-020A-4A90-83A1-C14DA00D8586</string>
+		</dict>
+		<key>9730FFAB-A8F2-4FA4-99F8-D09E987F6F22</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>9730FFAB-A8F2-4FA4-99F8-D09E987F6F22.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625745.30337</real>
+			<key>timeStoppedRecording</key>
+			<real>752625745.32428801</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>9730FFAB-A8F2-4FA4-99F8-D09E987F6F22</string>
+		</dict>
+		<key>9B34104C-891D-41A2-9E5A-86F24FF74BCB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>9B34104C-891D-41A2-9E5A-86F24FF74BCB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -358,15 +1870,15 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>752104855.20614195</real>
+			<real>752663375.53433597</real>
 			<key>timeStoppedRecording</key>
-			<real>752104856.22585201</real>
+			<real>752663375.56149399</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>AB2FD0CF-CB86-4E9F-B7E1-C28A2B38D60F</string>
+			<string>9B34104C-891D-41A2-9E5A-86F24FF74BCB</string>
 		</dict>
-		<key>C1198821-92A0-4C1C-8B68-9F94CD99443E</key>
+		<key>9BAF14FF-B4AA-41CD-8F11-83ED78698C26</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -375,7 +1887,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>C1198821-92A0-4C1C-8B68-9F94CD99443E.xcactivitylog</string>
+			<string>9BAF14FF-B4AA-41CD-8F11-83ED78698C26.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -394,15 +1906,15 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>752104799.47436702</real>
+			<real>752624897.58661997</real>
 			<key>timeStoppedRecording</key>
-			<real>752104800.45533001</real>
+			<real>752624897.76468599</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>C1198821-92A0-4C1C-8B68-9F94CD99443E</string>
+			<string>9BAF14FF-B4AA-41CD-8F11-83ED78698C26</string>
 		</dict>
-		<key>C3420949-304B-4D83-B147-9820E1C813B1</key>
+		<key>9F64525E-9647-4427-8952-88C9C8234B90</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -411,7 +1923,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>C3420949-304B-4D83-B147-9820E1C813B1.xcactivitylog</string>
+			<string>9F64525E-9647-4427-8952-88C9C8234B90.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -430,15 +1942,15 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>752104825.28474903</real>
+			<real>752625712.99952495</real>
 			<key>timeStoppedRecording</key>
-			<real>752104825.94751096</real>
+			<real>752625713.17169905</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>C3420949-304B-4D83-B147-9820E1C813B1</string>
+			<string>9F64525E-9647-4427-8952-88C9C8234B90</string>
 		</dict>
-		<key>D54D788C-8993-443D-976F-BA3555AD308B</key>
+		<key>A08D8B04-2F74-423D-90AB-C25491AD93A6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -447,7 +1959,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>D54D788C-8993-443D-976F-BA3555AD308B.xcactivitylog</string>
+			<string>A08D8B04-2F74-423D-90AB-C25491AD93A6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -466,13 +1978,1309 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>752104829.22662795</real>
+			<real>752625905.75889099</real>
 			<key>timeStoppedRecording</key>
-			<real>752104829.56546605</real>
+			<real>752625906.03312194</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>D54D788C-8993-443D-976F-BA3555AD308B</string>
+			<string>A08D8B04-2F74-423D-90AB-C25491AD93A6</string>
+		</dict>
+		<key>A2EB0005-39FC-44F2-AC5D-95CE65740DF9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>A2EB0005-39FC-44F2-AC5D-95CE65740DF9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626014.588925</real>
+			<key>timeStoppedRecording</key>
+			<real>752626014.90599704</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>A2EB0005-39FC-44F2-AC5D-95CE65740DF9</string>
+		</dict>
+		<key>AAC48BAA-CCB0-45F6-81D1-D8D4FC0FA909</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>AAC48BAA-CCB0-45F6-81D1-D8D4FC0FA909.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>2</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626378.16956794</real>
+			<key>timeStoppedRecording</key>
+			<real>752626378.34607196</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>AAC48BAA-CCB0-45F6-81D1-D8D4FC0FA909</string>
+		</dict>
+		<key>AC730B41-0294-484D-BE48-19DE20CA5E1F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>AC730B41-0294-484D-BE48-19DE20CA5E1F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625917.60715497</real>
+			<key>timeStoppedRecording</key>
+			<real>752625917.75249004</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>AC730B41-0294-484D-BE48-19DE20CA5E1F</string>
+		</dict>
+		<key>AEC16723-02EB-44DD-9B3B-242395D93B15</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>AEC16723-02EB-44DD-9B3B-242395D93B15.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>2</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752626377.59876001</real>
+			<key>timeStoppedRecording</key>
+			<real>752626378.16883898</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>AEC16723-02EB-44DD-9B3B-242395D93B15</string>
+		</dict>
+		<key>B1243420-5157-46C4-8521-EA151EA1B801</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>B1243420-5157-46C4-8521-EA151EA1B801.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752663105.10756803</real>
+			<key>timeStoppedRecording</key>
+			<real>752663106.06135297</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>B1243420-5157-46C4-8521-EA151EA1B801</string>
+		</dict>
+		<key>B16DF805-297C-4647-B35C-DEB3FC603C57</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>B16DF805-297C-4647-B35C-DEB3FC603C57.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624942.69007099</real>
+			<key>timeStoppedRecording</key>
+			<real>752624942.90395403</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>B16DF805-297C-4647-B35C-DEB3FC603C57</string>
+		</dict>
+		<key>B50F4A32-71BD-49E7-83DA-3FFF1D58072F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>B50F4A32-71BD-49E7-83DA-3FFF1D58072F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626353.77696204</real>
+			<key>timeStoppedRecording</key>
+			<real>752626353.977808</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>B50F4A32-71BD-49E7-83DA-3FFF1D58072F</string>
+		</dict>
+		<key>B72A8D22-5886-4902-BF81-459E488C256A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>B72A8D22-5886-4902-BF81-459E488C256A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625905.73621595</real>
+			<key>timeStoppedRecording</key>
+			<real>752625905.75836694</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>B72A8D22-5886-4902-BF81-459E488C256A</string>
+		</dict>
+		<key>BD31A327-46CC-47F8-B701-E43E318E8A51</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>BD31A327-46CC-47F8-B701-E43E318E8A51.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625751.30246496</real>
+			<key>timeStoppedRecording</key>
+			<real>752625751.31607795</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>BD31A327-46CC-47F8-B701-E43E318E8A51</string>
+		</dict>
+		<key>BD86AD76-23B0-42A4-9099-C843C2757648</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>BD86AD76-23B0-42A4-9099-C843C2757648.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625712.98200798</real>
+			<key>timeStoppedRecording</key>
+			<real>752625712.99871397</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>BD86AD76-23B0-42A4-9099-C843C2757648</string>
+		</dict>
+		<key>C53C19E3-30AA-48D6-AB62-578F3F76D33B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>C53C19E3-30AA-48D6-AB62-578F3F76D33B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752626381.63838601</real>
+			<key>timeStoppedRecording</key>
+			<real>752626381.94858396</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>C53C19E3-30AA-48D6-AB62-578F3F76D33B</string>
+		</dict>
+		<key>C5C58A0D-498D-45BD-B942-99AEFFEE1600</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>C5C58A0D-498D-45BD-B942-99AEFFEE1600.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626194.60794306</real>
+			<key>timeStoppedRecording</key>
+			<real>752626194.74088597</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>C5C58A0D-498D-45BD-B942-99AEFFEE1600</string>
+		</dict>
+		<key>C8C2A9F3-6A8B-4C3E-BAAD-76F40652BE6C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>C8C2A9F3-6A8B-4C3E-BAAD-76F40652BE6C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624898.83003104</real>
+			<key>timeStoppedRecording</key>
+			<real>752624898.96781397</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>C8C2A9F3-6A8B-4C3E-BAAD-76F40652BE6C</string>
+		</dict>
+		<key>CCA5F392-4F10-4093-BA6E-AEF042C00D6A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>CCA5F392-4F10-4093-BA6E-AEF042C00D6A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625471.48020697</real>
+			<key>timeStoppedRecording</key>
+			<real>752625471.80476606</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>CCA5F392-4F10-4093-BA6E-AEF042C00D6A</string>
+		</dict>
+		<key>CDCB3C27-EF6B-4790-91DB-E71D6E26021E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>CDCB3C27-EF6B-4790-91DB-E71D6E26021E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752622986.35522795</real>
+			<key>timeStoppedRecording</key>
+			<real>752622987.95532799</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>CDCB3C27-EF6B-4790-91DB-E71D6E26021E</string>
+		</dict>
+		<key>CFF33D08-6524-4BB6-84E5-62F3126A2BD3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>CFF33D08-6524-4BB6-84E5-62F3126A2BD3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625743.34223199</real>
+			<key>timeStoppedRecording</key>
+			<real>752625743.72914696</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>CFF33D08-6524-4BB6-84E5-62F3126A2BD3</string>
+		</dict>
+		<key>D13FA122-EE5D-4F81-B114-AFC0041A923D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>D13FA122-EE5D-4F81-B114-AFC0041A923D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625410.79155004</real>
+			<key>timeStoppedRecording</key>
+			<real>752625411.455809</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>D13FA122-EE5D-4F81-B114-AFC0041A923D</string>
+		</dict>
+		<key>D6A7C87D-5698-4E73-90EB-E66317DD035A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>D6A7C87D-5698-4E73-90EB-E66317DD035A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752663180.70311606</real>
+			<key>timeStoppedRecording</key>
+			<real>752663180.72018003</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>D6A7C87D-5698-4E73-90EB-E66317DD035A</string>
+		</dict>
+		<key>D8696BF9-703F-4405-90E6-72692AEAD0A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>D8696BF9-703F-4405-90E6-72692AEAD0A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625215.11235201</real>
+			<key>timeStoppedRecording</key>
+			<real>752625215.56110203</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>D8696BF9-703F-4405-90E6-72692AEAD0A8</string>
+		</dict>
+		<key>DA9897E8-9994-425B-94E2-2E6A178CC975</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>DA9897E8-9994-425B-94E2-2E6A178CC975.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752626014.57544994</real>
+			<key>timeStoppedRecording</key>
+			<real>752626014.588449</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>DA9897E8-9994-425B-94E2-2E6A178CC975</string>
+		</dict>
+		<key>DBEB1305-4C71-4976-BE2E-8E1FAB7B86B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>DBEB1305-4C71-4976-BE2E-8E1FAB7B86B1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625910.34175396</real>
+			<key>timeStoppedRecording</key>
+			<real>752625910.48677397</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>DBEB1305-4C71-4976-BE2E-8E1FAB7B86B1</string>
+		</dict>
+		<key>E13986D3-9B36-4DBA-B16E-043FD736BAAD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>E13986D3-9B36-4DBA-B16E-043FD736BAAD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752663106.16787195</real>
+			<key>timeStoppedRecording</key>
+			<real>752663106.18941903</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>E13986D3-9B36-4DBA-B16E-043FD736BAAD</string>
+		</dict>
+		<key>E24F26F2-D27F-4CD1-A5AF-49EE7AE6808B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>E24F26F2-D27F-4CD1-A5AF-49EE7AE6808B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625103.62378395</real>
+			<key>timeStoppedRecording</key>
+			<real>752625103.72122598</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>E24F26F2-D27F-4CD1-A5AF-49EE7AE6808B</string>
+		</dict>
+		<key>E252FB54-1013-469C-94AE-E1FA3408A2E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>E252FB54-1013-469C-94AE-E1FA3408A2E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625704.60790801</real>
+			<key>timeStoppedRecording</key>
+			<real>752625704.91190696</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>E252FB54-1013-469C-94AE-E1FA3408A2E7</string>
+		</dict>
+		<key>E5FFEFB7-E42A-41C2-AFF3-65403B2EA197</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>E5FFEFB7-E42A-41C2-AFF3-65403B2EA197.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625435.81602705</real>
+			<key>timeStoppedRecording</key>
+			<real>752625436.69249499</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>E5FFEFB7-E42A-41C2-AFF3-65403B2EA197</string>
+		</dict>
+		<key>E606F066-112C-4944-9FE0-5BA8A803A75C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>E606F066-112C-4944-9FE0-5BA8A803A75C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625706.62294602</real>
+			<key>timeStoppedRecording</key>
+			<real>752625706.770136</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>E606F066-112C-4944-9FE0-5BA8A803A75C</string>
+		</dict>
+		<key>E8788BA3-80AF-41D4-BFD7-07D41D8AD43B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>E8788BA3-80AF-41D4-BFD7-07D41D8AD43B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752626352.92206204</real>
+			<key>timeStoppedRecording</key>
+			<real>752626353.77620697</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>E8788BA3-80AF-41D4-BFD7-07D41D8AD43B</string>
+		</dict>
+		<key>E9E3A73E-24F0-4242-9D80-DE4335B17886</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>E9E3A73E-24F0-4242-9D80-DE4335B17886.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624957.08956504</real>
+			<key>timeStoppedRecording</key>
+			<real>752624957.53234696</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>E9E3A73E-24F0-4242-9D80-DE4335B17886</string>
+		</dict>
+		<key>EE047D94-9860-49C8-B2FA-9C2F14768371</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>EE047D94-9860-49C8-B2FA-9C2F14768371.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626190.30834699</real>
+			<key>timeStoppedRecording</key>
+			<real>752626190.63312304</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>EE047D94-9860-49C8-B2FA-9C2F14768371</string>
+		</dict>
+		<key>EFB24A3D-364E-436A-B2FE-C76BD90057E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>EFB24A3D-364E-436A-B2FE-C76BD90057E9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>timeStartedRecording</key>
+			<real>752625743.31190896</real>
+			<key>timeStoppedRecording</key>
+			<real>752625743.32621503</real>
+			<key>title</key>
+			<string>Reload Package ‘google-cast-sdk-ios’</string>
+			<key>uniqueIdentifier</key>
+			<string>EFB24A3D-364E-436A-B2FE-C76BD90057E9</string>
+		</dict>
+		<key>F19833AF-C187-4B3A-9615-8512B32D9537</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>F19833AF-C187-4B3A-9615-8512B32D9537.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625659.59893298</real>
+			<key>timeStoppedRecording</key>
+			<real>752625659.930125</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>F19833AF-C187-4B3A-9615-8512B32D9537</string>
+		</dict>
+		<key>F24B6057-72EE-4F27-A8CE-83CF07D84429</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>F24B6057-72EE-4F27-A8CE-83CF07D84429.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625991.34989905</real>
+			<key>timeStoppedRecording</key>
+			<real>752625991.49643803</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>F24B6057-72EE-4F27-A8CE-83CF07D84429</string>
+		</dict>
+		<key>F88B4C20-C0B6-453A-96FE-84FD6B2F0726</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>F88B4C20-C0B6-453A-96FE-84FD6B2F0726.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>4</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752624938.67892802</real>
+			<key>timeStoppedRecording</key>
+			<real>752624939.28103101</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>F88B4C20-C0B6-453A-96FE-84FD6B2F0726</string>
+		</dict>
+		<key>FA874111-2A12-4205-B305-4E5E4478DB24</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>FA874111-2A12-4205-B305-4E5E4478DB24.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625503.059376</real>
+			<key>timeStoppedRecording</key>
+			<real>752625503.39850104</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>FA874111-2A12-4205-B305-4E5E4478DB24</string>
+		</dict>
+		<key>FC4981C2-EECA-47E3-80B3-9E5A4195CB9A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>FC4981C2-EECA-47E3-80B3-9E5A4195CB9A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752626202.63250506</real>
+			<key>timeStoppedRecording</key>
+			<real>752626202.86361897</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>FC4981C2-EECA-47E3-80B3-9E5A4195CB9A</string>
+		</dict>
+		<key>FDB8FE42-2807-400C-9E43-1E0ED294B124</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
+			<key>fileName</key>
+			<string>FDB8FE42-2807-400C-9E43-1E0ED294B124.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>Resolve Packages</string>
+			<key>timeStartedRecording</key>
+			<real>752625804.20674801</real>
+			<key>timeStoppedRecording</key>
+			<real>752625804.35139799</real>
+			<key>title</key>
+			<string>Resolve Packages</string>
+			<key>uniqueIdentifier</key>
+			<string>FDB8FE42-2807-400C-9E43-1E0ED294B124</string>
 		</dict>
 	</dict>
 </dict>
